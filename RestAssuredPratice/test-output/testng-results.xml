@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="5518" started-at="2020-05-23T13:16:10 IST" finished-at="2020-05-23T13:16:15 IST">
+  <suite name="Default suite" duration-ms="3912" started-at="2020-05-23T17:33:02 IST" finished-at="2020-05-23T17:33:06 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="5518" started-at="2020-05-23T13:16:10 IST" finished-at="2020-05-23T13:16:15 IST">
-      <class name="Tests_DELETE">
-        <test-method status="PASS" signature="test_01()[pri:0, instance:Tests_DELETE@4973813a]" name="test_01" duration-ms="5429" started-at="2020-05-23T13:16:10 IST" finished-at="2020-05-23T13:16:15 IST">
+    <test name="Default test" duration-ms="3912" started-at="2020-05-23T17:33:02 IST" finished-at="2020-05-23T17:33:06 IST">
+      <class name="ExamplesAPI">
+        <test-method status="PASS" signature="test_delete()[pri:0, instance:ExamplesAPI@4973813a]" name="test_delete" duration-ms="3829" started-at="2020-05-23T17:33:02 IST" finished-at="2020-05-23T17:33:06 IST">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- test_01 -->
-      </class> <!-- Tests_DELETE -->
+        </test-method> <!-- test_delete -->
+      </class> <!-- ExamplesAPI -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
